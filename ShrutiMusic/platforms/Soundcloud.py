@@ -61,13 +61,13 @@ class SoundAPI:
         return track_details, xyz
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @GHOSTRIDERFIRE0 GHOST
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
+# ©️ ⚡ 𝙂𝙃𝙊𝙎𝙏᭄𝙑𝙄𝘽𝙀𝙎 🎧 (@GHOSTRIDERFIRE0)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/+lcTDbs8lbedlNTNl
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From ⚡ 𝙂𝙃𝙊𝙎𝙏᭄𝙑𝙄𝘽𝙀𝙎 🎧
